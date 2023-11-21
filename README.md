@@ -10,6 +10,7 @@
 ### Lynn-AnimeList
 
 School Web is an website project using PHP MySQL
+There will be no future updates to this repository, if you want to develop it, please click fork on this repository
 
 ### Features
 The features are still very simple, for example as follows
